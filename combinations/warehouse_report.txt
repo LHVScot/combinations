@@ -1,0 +1,8 @@
+WAREHOUSE STATUS REPORT
+=======================
+
+Part Name                Quantity    Price       Total Cost     
+------------------------------------------------------------
+Gear                     12          1200.00     14400.00       
+
+TOTAL COST OF ALL PARTS: 14400.00 USD
